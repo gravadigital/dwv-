@@ -1,10 +1,10 @@
 {
-  "name": "dwv",
-  "description": "DICOM Web Viewer.",
+  "name": "dwv-plus",
+  "description": "DICOM Web Viewer 2.",
   "keywords": ["DICOM", "medical", "imaging"],
   "license": "GPL-3.0",
-  "authors" : ["ivmartel <ivmartel@gmail.com>"],
-  "homepage": "https://ivmartel.github.io/dwv/",
+  "authors" : ["grava.digital <grava.digital@gmail.com>"],
+  "homepage": "https://github.com/gravadigital/dwv-plus",
   "repository": {
     "type": "git",
     "url": "git://github.com/ivmartel/dwv.git"
